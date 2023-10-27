@@ -1,0 +1,6 @@
+*.launch
+/.debug/
+/.release/
+/Debug/
+/Release/
+*.ioc
